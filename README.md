@@ -40,3 +40,4 @@ DB_PASSWORD=
 12. Once finished, run the ```php artisan serve``` command then it can be accessed by http://localhost:8000/
 # CRUD-MVC-LARAVEL
 # CRUD-MVC-LARAVEL
+# LARAVEL-MVC-CRUD-
